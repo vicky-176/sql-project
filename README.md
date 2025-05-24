@@ -1,4 +1,5 @@
 🎬 IMDB SQL Project
+
 This project focuses on analyzing the IMDB movie dataset using SQL to extract meaningful insights from structured movie data. The database includes details about movies, genres, actors, directors, and ratings.
 
 📌 About the Project
